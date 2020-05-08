@@ -98,6 +98,6 @@ $ python mask_rcnn_drivable.py
 ![avatar](assets/demo.gif)
 
 ### 小结
-此实验`BACKBONE`为`resnet`,目前为探索性实验，探索此方法在当前车道进行可行驶区域分割的效果。
+此实验`BACKBONE`为`resnet`,探索此方法在当前车道进行可行驶区域分割的效果。
 道路边缘分割呈现规则的波浪状，模型的mask预测存在改进空间。
  
