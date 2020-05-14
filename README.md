@@ -79,7 +79,7 @@ $ cd current-lane-drivable-master/mask-rcnn/notebooks
 $ python mask_rcnn_drivable.py
 
 ```
-在`weights`目录下提供了可用于预训练的权值文件`mask_rcnn_drivable_res50.h5`和`mask_rcnn_drivable_res101.h5`，分别作为`BACKBONE`为`resnet50`和`resnet101`预训练权值。
+在`weights`目录下提供了可用于预训练的权值文件`mask_rcnn_drivable_res50.h5`和`mask_rcnn_drivable_res101.h5`，分别作为`BACKBONE`为`resnet50`和`resnet101`预训练权值。 权值文件下载```https://pan.baidu.com/s/1H6qZneMSZVj3p7cmOOUSSQ 提取码: 1bfw ```
 
 ### Test
 `AP.py`可计算在不同`IoU`下的检测精度\
